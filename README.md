@@ -1,1 +1,2 @@
 # VoiceTranscription
+音声認識のサンプルプロジェクト
